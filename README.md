@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanketh%20%7C%20Sanky&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20%7C%20Dreamer&descAlignY=55&descAlign=50" />
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sanky+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+things+that+think+%F0%9F%A7%A0;VTU+%7C+SMVITM+Bantakal+%F0%9F%8E%93;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
