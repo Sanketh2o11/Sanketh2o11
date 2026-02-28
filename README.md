@@ -14,15 +14,15 @@
 ## 🙋‍♂️ About Me
 
 ```
-╬══════════════════════════════════════════════════════════╪
-║          🤖  MODEL CARD — Sanketh-v0.8.1             ║
-╚══════════════════════════════════════════════════════════╝
+╬═════════════════════════════════════════════════════════╬
+ ║          🤖  MODEL CARD — Sanketh-v0.8.1             ║
+╚═════════════════════════════════════════════════════════╝
 
   Model Name    :  Sanketh (Sanky)
   Version       :  0.8.1  (final semester, just loaded)
   Base Model    :  Human-1.0
   Architecture  :  Curiosity-Driven Transformer 🧠
-  Origin        :  Kaup, Karnataka, India 🇮🇳
+  Origin        :  Karnataka, India 🇮🇳
 
 ──────────────────────────────────────────────────────────
   FINE-TUNING DATASETS
