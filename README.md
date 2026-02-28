@@ -13,25 +13,50 @@
 
 ## 🙋‍♂️ About Me
 
-```python
-class Sanky:
-    def __init__(self):
-        self.name        = "Sanketh"
-        self.alias       = "Sanky"
-        self.location    = "Kaup, Karnataka 🇮🇳"
-        self.education   = "B.E. in AI & ML — SMVITM, Bantakal (7th Sem)"
-        self.university  = "VTU 2022 Scheme"
-        self.passions    = ["AI/ML", "Building products", "Guitar 🎸", "High-fi audio 🎧"]
-        self.currently   = ["Studying MLOps & Data Engineering",
-                            "Building AI-powered web apps",
-                            "Leveling up in TypeScript + Python"]
-        self.dream       = "Build something that matters. Make it count. 💜"
+```
+╬══════════════════════════════════════════════════════════╪
+║          🤖  MODEL CARD — Sanketh-v0.8.1             ║
+╚══════════════════════════════════════════════════════════╝
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+  Model Name    :  Sanketh (Sanky)
+  Version       :  0.8.1  (final semester, just loaded)
+  Base Model    :  Human-1.0
+  Architecture  :  Curiosity-Driven Transformer 🧠
+  Origin        :  Kaup, Karnataka, India 🇮🇳
 
-me = Sanky()
-me.say_hi()
+──────────────────────────────────────────────────────────
+  FINE-TUNING DATASETS
+──────────────────────────────────────────────────────────
+  ✅  AI & ML           (SMVITM Bantakal × VTU 2022)
+  ✅  Python            (primary language)
+  ✅  Guitar            (still fine-tuning, 0.3 epochs 🎸)
+  ✅  High-fi Audio     (overfitted slightly 🎧)
+
+──────────────────────────────────────────────────────────
+  CURRENT TRAINING STATUS
+──────────────────────────────────────────────────────────
+  Stage     :  8th Semester  [ █░░░░░░░ ]
+  Loss      :  ████░░░░  Decreasing  ↓  (0 → something)
+  Accuracy  :  ███░░░░░  Improving   ↑  (daily commits)
+  Momentum  :  HIGH  🔥
+
+──────────────────────────────────────────────────────────
+  EVALUATION METRICS
+──────────────────────────────────────────────────────────
+  builder_score     :  ██████░░  0.73
+  resilience_score  :  ████████  0.91
+  creativity_score  :  ███████░  0.84
+
+──────────────────────────────────────────────────────────
+  INTENDED USE
+──────────────────────────────────────────────────────────
+  ✦  Building AI products that actually solve problems
+  ✦  Collaborating on ambitious ideas
+  ✦  Making an impact — in Karnataka and beyond 🚀
+
+──────────────────────────────────────────────────────────
+  STATUS    :  🟡 Final epoch loading — watch this space
+──────────────────────────────────────────────────────────
 ```
 
 ---
