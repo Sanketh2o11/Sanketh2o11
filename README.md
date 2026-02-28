@@ -95,8 +95,8 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sanketh2o11-181717?style=for-the-badge&logo=github)](https://github.com/Sanketh2o11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/sanketh-s-hegde)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.sanketh.hegde@gmail.com)
 
 </div>
 
