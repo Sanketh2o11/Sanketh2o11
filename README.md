@@ -70,16 +70,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sanketh2o11&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🎯 Currently Leveling Up
 
 - 🤖 **MLOps** — Model deployment, CI/CD pipelines, containerization
