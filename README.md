@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sanky+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+things+that+think+%F0%9F%A7%A0;VTU+%7C+SMVITM+Bantakal+%F0%9F%8E%93;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sanky+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+things+that+think+%F0%9F%A7%A0;VTU+%7C+SMVITM+Bantakal+%F0%9F%8E%93;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80)
 
 <br/>
 
@@ -95,8 +95,8 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sanketh2o11-181717?style=for-the-badge&logo=github)](https://github.com/Sanketh2o11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/sanketh-s-hegde)
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.sanketh.hegde@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
