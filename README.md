@@ -1,10 +1,10 @@
 <div align="center">
 
-
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sanky+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+things+that+think+%F0%9F%A7%A0;VTU+%7C+SMVITM+Bantakal+%F0%9F%8E%93;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Profile Views -->
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanketh2o11&label=Profile+Views&color=6E40C9&style=flat-square)
 
 </div>
@@ -74,20 +74,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanketh2o11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Sanketh2o11&theme=tokyonight&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketh2o11&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Sanketh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanketh2o11&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://streak-stats.demolab.com?user=Sanketh2o11&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -118,7 +105,5 @@ me.say_hi()
 <div align="center">
 
 ### 💜 "A novice today, an expert tomorrow — the only direction is forward."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
