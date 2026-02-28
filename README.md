@@ -14,15 +14,15 @@
 ## 🙋‍♂️ About Me
 
 ```
-╬═════════════════════════════════════════════════════════╬
- ║          🤖  MODEL CARD — Sanketh-v0.8.1             ║
-╚═════════════════════════════════════════════════════════╝
+╬══════════════════════════════════════════════════════════╪
+║          🤖  MODEL CARD — Sanketh-v0.8.1             ║
+╚══════════════════════════════════════════════════════════╝
 
   Model Name    :  Sanketh (Sanky)
   Version       :  0.8.1  (final semester, just loaded)
   Base Model    :  Human-1.0
   Architecture  :  Curiosity-Driven Transformer 🧠
-  Origin        :  Karnataka, India 🇮🇳
+  Origin        :  Kaup, Karnataka, India 🇮🇳
 
 ──────────────────────────────────────────────────────────
   FINE-TUNING DATASETS
@@ -35,17 +35,17 @@
 ──────────────────────────────────────────────────────────
   CURRENT TRAINING STATUS
 ──────────────────────────────────────────────────────────
-  Stage     :  8th Semester  [ █░░░░░░░ ]
-  Loss      :  ████░░░░  Decreasing  ↓  (0 → something)
-  Accuracy  :  ███░░░░░  Improving   ↑  (daily commits)
+  Stage     :  8th Semester  [▰▱▱▱▱▱▱▱]
+  Loss      :  [▰▰▰▰▱▱▱▱]  Decreasing  ↓  (0 → something)
+  Accuracy  :  [▰▰▰▱▱▱▱▱]  Improving   ↑  (daily commits)
   Momentum  :  HIGH  🔥
 
 ──────────────────────────────────────────────────────────
   EVALUATION METRICS
 ──────────────────────────────────────────────────────────
-  builder_score     :  ██████░░  0.73
-  resilience_score  :  ████████  0.91
-  creativity_score  :  ███████░  0.84
+  builder_score     :  [▰▰▰▰▰▰▱▱]  0.73
+  resilience_score  :  [▰▰▰▰▰▰▰▰]  0.91
+  creativity_score  :  [▰▰▰▰▰▰▰▱]  0.84
 
 ──────────────────────────────────────────────────────────
   INTENDED USE
