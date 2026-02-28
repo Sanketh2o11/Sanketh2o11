@@ -1,10 +1,13 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sanky+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+things+that+think+%F0%9F%A7%A0;Learning%2C+Building%2C+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanketh%20%7C%20Sanky&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20%7C%20Dreamer&descAlignY=55&descAlign=50" />
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanketh%20%7C%20Sanky&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20%7C%20Dreamer&descAlignY=52&descAlign=50" />
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sanky+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+things+that+think+%F0%9F%A7%A0;VTU+%7C+SMVITM+Bantakal+%F0%9F%8E%93;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sanketh2o11&label=Profile+Views&color=6E40C9&style=flat-square)
 
 </div>
 
@@ -74,7 +77,7 @@ me.say_hi()
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanketh2o11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketh2o11&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Sanketh2o11&theme=tokyonight&hide_border=true" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketh2o11&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 
@@ -119,7 +122,5 @@ me.say_hi()
 ### 💜 "A novice today, an expert tomorrow — the only direction is forward."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-![Visitor Count](https://profile-counter.glitch.me/Sanketh2o11/count.svg)
 
 </div>
