@@ -65,8 +65,8 @@
 
 | 🔥 Project | 📝 What it does | 🛠️ Stack |
 |---|---|---|
-| [**Summora**](https://github.com/Sanketh2o11/Summora) | AI companion that summarizes input, logs with timestamps & detects tasks auto-adding to to-do list | Python · AI/LLM · Web |
-| [**goalmentum**](https://github.com/Sanketh2o11/goalmentum) | Modern goal tracker with progress bars, streaks, dark mode & gamification | React · TypeScript · Tailwind |
+| [**EB Tracker**](https://github.com/Sanketh2o11/eb-tracker) | PWA to monitor monthly electricity consumption for MESCOM Gruha Jyoti consumers — tracks units in real-time, estimates bills & alerts before subsidy loss | HTML · CSS · JS · Firebase · PWA |
+| [**CampusEase**](https://github.com/Sanketh2o11/CampusEase) | Django-based campus management platform for students & CRs — attendance, timetable, notices with polls, study materials, exam schedules & lost-and-found | Django · Python · HTML |
 | **Manomithra** | AI for Mental Health — intelligent support system for emotional wellbeing | AI/ML · TypeScript |
 
 ---
@@ -83,6 +83,7 @@
 ### 🌐 Web / App Dev
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -91,6 +92,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
