@@ -35,7 +35,7 @@
 ──────────────────────────────────────────────────────────
   CURRENT TRAINING STATUS
 ──────────────────────────────────────────────────────────
-  Stage     :  8th Semester  [▰▱▱▱▱▱▱▱]
+  Stage     :  8th Semester  [▰▰▰▱▱▱▱▱]
   Loss      :  [▰▰▰▰▱▱▱▱]  Decreasing  ↓  (0 → something)
   Accuracy  :  [▰▰▰▱▱▱▱▱]  Improving   ↑  (daily commits)
   Momentum  :  HIGH  🔥
