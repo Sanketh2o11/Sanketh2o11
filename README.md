@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sanky+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+things+that+think+%F0%9F%A7%A0;VTU+%7C+SMVITM+Bantakal+%F0%9F%8E%93;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sanky+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Building+Arka%2C+an+AI+assistant+for+Android+%F0%9F%93%B1;Shipping+things+that+think+%F0%9F%A7%A0;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%F0%9F%9A%80)
 
 <br/>
 
@@ -14,12 +14,12 @@
 ## 🙋‍♂️ About Me
 
 ```
-╬══════════════════════════════════════════════════════════╬
- ║          🤖  MODEL CARD — Sanketh-v0.8.1              ║
+╔══════════════════════════════════════════════════════════╗
+║          🤖  MODEL CARD — Sanketh-v1.0                   ║
 ╚══════════════════════════════════════════════════════════╝
 
   Model Name    :  Sanketh (Sanky)
-  Version       :  0.8.1  (final semester, just loaded)
+  Version       :  1.0  (graduated, now in production)
   Base Model    :  Human-1.0
   Architecture  :  Curiosity-Driven Transformer 🧠
   Origin        :  Karnataka, India 🇮🇳
@@ -27,36 +27,24 @@
 ──────────────────────────────────────────────────────────
   FINE-TUNING DATASETS
 ──────────────────────────────────────────────────────────
-  ✅  AI & ML               (SMVITM Bantakal × VTU 2022)
-  ✅  Python                (primary language)
-  ✅  Guitar                (still fine-tuning, 0.3 epochs 🎸)
-  ✅  Attention to Detail   (trained on 1000+ hours of audio 🎧)
+  ✅  AI & ML               (B.E., SMVITM Bantakal × VTU)
+  ✅  Python · Kotlin       (daily drivers)
+  ✅  Android               (Jetpack Compose, on-device AI)
+  ✅  Guitar                (still fine-tuning 🎸)
 
 ──────────────────────────────────────────────────────────
-  CURRENT TRAINING STATUS
+  CURRENT DEPLOYMENT
 ──────────────────────────────────────────────────────────
-  Stage     :  8th Semester  [▰▰▰▱▱▱▱▱]
-  Loss      :  [▰▰▰▰▱▱▱▱]  Decreasing  ↓  (0 → something)
-  Accuracy  :  [▰▰▰▱▱▱▱▱]  Improving   ↑  (daily commits)
+  Building  :  Arka, an open-source AI assistant for Android
+  Hacking   :  Singularity 2026, AI for Medical Supply Intelligence
   Momentum  :  HIGH  🔥
-
-──────────────────────────────────────────────────────────
-  EVALUATION METRICS
-──────────────────────────────────────────────────────────
-  builder_score     :  [▰▰▰▰▰▰▱▱]  0.73
-  resilience_score  :  [▰▰▰▰▰▰▰▰]  0.91
-  creativity_score  :  [▰▰▰▰▰▰▰▱]  0.84
 
 ──────────────────────────────────────────────────────────
   INTENDED USE
 ──────────────────────────────────────────────────────────
   ✦  Building AI products that actually solve problems
   ✦  Collaborating on ambitious ideas
-  ✦  Making an impact — in Karnataka and beyond 🚀
-
-──────────────────────────────────────────────────────────
-  STATUS    :  🟡 Final epoch loading — watch this space
-──────────────────────────────────────────────────────────
+  ✦  Making an impact, in Karnataka and beyond 🚀
 ```
 
 ---
@@ -65,9 +53,12 @@
 
 | 🔥 Project | 📝 What it does | 🛠️ Stack |
 |---|---|---|
-| [**EB Tracker**](https://github.com/Sanketh2o11/eb-tracker) | PWA to monitor monthly electricity consumption for MESCOM Gruha Jyoti consumers — tracks units in real-time, estimates bills & alerts before subsidy loss | HTML · CSS · JS · Firebase · PWA |
-| [**CampusEase**](https://github.com/Sanketh2o11/CampusEase) | Django-based campus management platform for students & CRs — attendance, timetable, notices with polls, study materials, exam schedules & lost-and-found | Django · Python · HTML |
-| **Manomithra** | AI for Mental Health — intelligent support system for emotional wellbeing | AI/ML · TypeScript |
+| **Arka** *(launching soon)* | Open-source AI assistant that lives on your Android phone: acts from chat or voice, remembers bills, tickets and exams, tracks what's left in the bank, and runs on any AI model | Kotlin · Jetpack Compose · on-device ML |
+| [**BrickCount**](https://github.com/Sanketh2o11/BrickCount) | Android app for real-time brick detection and counting | Kotlin · YOLOv8 · TFLite |
+| [**Gesture Control**](https://github.com/Sanketh2o11/gesture-control-windows) | Control Spotify and Windows with hand gestures from a webcam | Python · Computer Vision |
+| [**EB Tracker**](https://github.com/Sanketh2o11/eb-tracker) | PWA for MESCOM Gruha Jyoti consumers: tracks units, estimates bills and alerts before subsidy loss | HTML · CSS · JS · Firebase · PWA |
+| [**CampusEase**](https://github.com/Sanketh2o11/CampusEase) | Campus platform for students and CRs: attendance, timetable, notices with polls, materials, exams and lost-and-found | Django · Python · HTML |
+| **Manomithra** | AI for mental health: support for emotional wellbeing | AI/ML · TypeScript |
 
 ---
 
@@ -87,6 +78,12 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -99,10 +96,9 @@
 
 ## 🎯 Currently Leveling Up
 
-- 🤖 **MLOps** — Model deployment, CI/CD pipelines, containerization
-- 📊 **Data Engineering** — Pipelines, lifecycle management
-- 🧪 **Deep Learning** — CNNs, model architecture
-- 🌐 **Full-Stack AI Apps** — Connecting ML models to real-world UIs
+- 📱 **On-device AI** — Running models on phones: OCR, embeddings, wake words
+- 🤖 **LLM agents** — Tool use, memory and multi-step tasks that stay private
+- 🚀 **Shipping** — Signed releases, CI/CD and open-source maintenance
 - 🎸 **Guitar** — Yes, this counts as a skill too!
 
 ---
@@ -121,6 +117,6 @@
 
 <div align="center">
 
-### 💜 "A novice today, an expert tomorrow — the only direction is forward."
+### 💜 "Somewhere between the first commit and something great."
 
 </div>
