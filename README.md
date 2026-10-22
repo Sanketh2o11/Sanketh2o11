@@ -53,7 +53,7 @@
 
 | 🔥 Project | 📝 What it does | 🛠️ Stack |
 |---|---|---|
-| **Arka** *(launching soon)* | Open-source AI assistant that lives on your Android phone: acts from chat or voice, remembers bills, tickets and exams, tracks what's left in the bank, and runs on any AI model | Kotlin · Jetpack Compose · on-device ML |
+| [**Arka**](https://github.com/Suraani/Arka) *(launching soon)* | Open-source AI assistant that lives on your Android phone: acts from chat or voice, remembers bills, tickets and exams, tracks what's left in the bank, and runs on any AI model | Kotlin · Jetpack Compose · on-device ML |
 | [**BrickCount**](https://github.com/Sanketh2o11/BrickCount) | Android app for real-time brick detection and counting | Kotlin · YOLOv8 · TFLite |
 | [**Gesture Control**](https://github.com/Sanketh2o11/gesture-control-windows) | Control Spotify and Windows with hand gestures from a webcam | Python · Computer Vision |
 | [**EB Tracker**](https://github.com/Sanketh2o11/eb-tracker) | PWA for MESCOM Gruha Jyoti consumers: tracks units, estimates bills and alerts before subsidy loss | HTML · CSS · JS · Firebase · PWA |
